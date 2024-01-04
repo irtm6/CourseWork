@@ -1,0 +1,18 @@
+[
+  {
+    "Login": "artem",
+    "Password": "1",
+    "ID": 28,
+    "Basket": [],
+    "History": [],
+    "Balance": 150
+  },
+  {
+    "Login": "1",
+    "Password": "1",
+    "ID": 29,
+    "Basket": [],
+    "History": [],
+    "Balance": 50
+  }
+]

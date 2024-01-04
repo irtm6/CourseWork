@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 0,
+    "Name": "Basketball ball",
+    "Price": 10,
+    "Amount": 0
+  },
+  {
+    "ID": 1,
+    "Name": "Soccer ball",
+    "Price": 4,
+    "Amount": 20
+  },
+  {
+    "ID": 2,
+    "Name": "Tennis ball",
+    "Price": 10,
+    "Amount": 18
+  },
+  {
+    "ID": 3,
+    "Name": "Rugby ball",
+    "Price": 10,
+    "Amount": 20
+  },
+  {
+    "ID": 4,
+    "Name": "Volleyball ball",
+    "Price": 10,
+    "Amount": 16
+  }
+]
