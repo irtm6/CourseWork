@@ -73,7 +73,6 @@ public class AllMenus
     
     public void Run()
     {
-                
                 Console.WriteLine(UserMenu.Message());
                 UserMenu.Action();
                 Show();
